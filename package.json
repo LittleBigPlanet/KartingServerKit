@@ -1,0 +1,26 @@
+{
+  "name": "karting-sdk",
+  "version": "1.0.0",
+  "description": "lighthouse can suck my dick",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node Source/index",
+    "dev:watch": "nodemon -x \"ts-node Source/index\"",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.3",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.17",
+    "colors": "^1.4.0",
+    "jest": "^29.6.1",
+    "yaml": "^2.3.1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
