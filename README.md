@@ -1,4 +1,4 @@
-#![KartSDKORIG27 07 23fix2](https://github.com/LittleBigPlanet/KartingSDK/assets/140343441/abef66b1-31dc-4fd2-90a7-b06e8aa792ef)
+![KartSDKORIG27 07 23fix2](https://github.com/LittleBigPlanet/KartingSDK/assets/140343441/abef66b1-31dc-4fd2-90a7-b06e8aa792ef)
 # KartingSDK
 
 Hi there! We at Replay decided to make our own custom server host for LBP Karting.
