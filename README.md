@@ -5,7 +5,7 @@ It's called KartingSK.
 KartingSK stands for Karting Server Kit. Because it's used for making your own custom servers.
 
 Since KSK is in it's extreemly early stages, we reccomend not using it for now.
-You CAN still use it, just note that any data loss does not make us liable; Once you begin using KSDK, you have full responsibility on what happens.
+You CAN still use it, just note that any data loss does not make us liable; Once you begin using KSK, you have full responsibility on what happens.
 ![IMG_5665](https://github.com/LittleBigPlanet/KartingSDK/assets/140343441/fb9be5e1-fbf8-4eef-9fe9-173f1afaf096)
 Feel free to contribute to the project! Thanks in advance!
 
